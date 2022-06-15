@@ -3,3 +3,4 @@ Test file v2
 Test file v3
 
 test-branch.txt
+test-branch.txt 2
