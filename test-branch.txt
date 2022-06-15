@@ -1,0 +1,12 @@
+﻿Test file v1
+Test file v2
+Test file v3
+<<<<<<< HEAD:test.txt
+Test file v4
+Test file v4
+
+=======
+
+test-branch.txt
+test-branch.txt 2
+>>>>>>> test-branch:test-branch.txt

@@ -1,0 +1,6 @@
+﻿Test file v1
+Test file v2
+Test file v3
+
+new-branch.txt
+new-branch.txt 2
