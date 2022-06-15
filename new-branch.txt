@@ -4,3 +4,6 @@ Test file v3
 
 new-branch.txt
 new-branch.txt 2
+
+new-branch.txt 3
+new-branch.txt 4
